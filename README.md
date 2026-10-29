@@ -10,5 +10,4 @@ The footer clock uses `Asia/Kolkata`; change the `timezone` value in `script.js`
 
 ## Run and publish
 
-Open `index.html` in a browser. The site uses HTML, CSS, and vanilla JavaScript and requires no build step. It is not deployed yet. Publish the folder on a static host such as Vercel, Netlify, or GitHub Pages to receive a live URL.
-
+Open `index.html` in a browser. The site uses HTML, CSS, and vanilla JavaScript and requires no build step. Vercel is connected to this GitHub repository and deploys updates pushed to the main branch.
